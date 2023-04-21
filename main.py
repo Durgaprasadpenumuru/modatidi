@@ -17,4 +17,6 @@ if __name__ == '__main__':
 def hg(f,g):
     pass
 class gh():
-    gh
+    ghjvjhkk
+    hcjvihkj
+    cjvhjk
